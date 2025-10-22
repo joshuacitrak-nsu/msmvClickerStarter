@@ -1,0 +1,27 @@
+/* TODO: the body is the bottom layer of the file-this is the BEDROCK
+  TODO: change the background-color to white or blue or purple you choose */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+button {
+  padding: 20px 40px;
+  font-size: 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/* TODO: when you put the mouse cursor over the button "hover" is what it's called
+TODO: change the color of the button when the mouse hovers over it */
+button:hover {
+  background-color: #45a049;
+}
